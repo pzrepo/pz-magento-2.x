@@ -7,7 +7,7 @@
    - php bin/magento module:enable PzmagentoPayment_Pzmagento
    - php bin/magento setup:upgrade
    
-3.) Goto Admin->Store->Configuration->Sales->Payment Method->Pz
+3.) Goto Admin->Store->Configuration->Sales->Payment Method->Pz magento
    - fill details here and save them.
 
 4.) Goto Admin->System->Cache Management
